@@ -1,1 +1,3 @@
-Link,Description,Start,End,KindKey,SubKindKey
+Link,Description,Start,End,KindKey,SubKindKey,IsShort,ShortLayout
+https://www.twitch.tv/velja_lol/clip/GenerousSpotlessPterodactylSSSsss-OhPlmEM9O6_m9lgt?range=7d,velja_lol,00:00,00:23,lol,normal,true,stacked
+https://www.twitch.tv/velja_lol/clip/GenerousSpotlessPterodactylSSSsss-OhPlmEM9O6_m9lgt?range=7d,velja_lol,00:00,00:23,lol,pentas,false,ambient
