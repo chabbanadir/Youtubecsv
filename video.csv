@@ -1,1 +1,12 @@
-Link,Description,Start,End,KindKey,SubKindKey
+Link,Description,Start,End,KindKey,SubKindKey,IsShort,ShortLayout,CatchStart,CatchAccelerate
+https://www.twitch.tv/berndog3/clip/BoxyHardPlumberCeilingCat-_hqKrRBLuEwZSk70?range=7d,berndog3,00:00,00:15,lol,normal,false,ambient,,false
+https://www.twitch.tv/viper/clip/ColdAnnoyingPuffin4Head-p-DiQnxMPj5otxKa?range=7d,viper,00:00,00:22,lol,normal,true,stacked,00:09,false
+https://www.twitch.tv/jinsupreme/clip/SparklingReliableChamoisWoofer-9v3HiG6HeB0Qnn4k?range=7d,jinsupreme,00:00,00:30,lol,,true,ambient,00:22,false
+https://www.twitch.tv/shaco_mid_lane/clip/SpoopyTenuousYakinikuWutFace-zP5ynZ-RobaiYBRW?range=7d,shaco_mid_lane,00:00,00:20,lol,normal,false,ambient,,false
+https://www.twitch.tv/quante/clip/GiantCooperativePorpoiseCoolCat-PL2-jCE2kj5iZDoA?range=7d,quante,00:00,00:30,lol,normal,false,ambient,,false
+https://www.twitch.tv/sharkth3kid/clip/FriendlyStrangeKoalaPlanking-7O-SSmwGJf0ZwLzX?range=7d,sharkth3kid,00:00,00:08,lol,fails,false,ambient,,false
+https://www.twitch.tv/davemon/clip/RelatedThoughtfulYogurtStinkyCheese-lyjQAoEiVDrAaysf?range=7d,davemon,00:00,00:15,lol,fails,false,ambient,,false
+https://www.twitch.tv/solarbacca/clip/RoundDependableNarwhalDuDudu-1PySfVybJIjVm6Ui?range=7d,solarbacca,00:00,00:20,lol,fails,false,ambient,,false
+https://www.twitch.tv/flibbing/clip/ExpensiveYawningDonkeyDoubleRainbow-N0NzKjSdL0Xn3N1S?range=7d,flibbing,00:00,00:30,lol,normal,true,stacked,00:21,false
+https://www.twitch.tv/flibbing/clip/ExpensiveYawningDonkeyDoubleRainbow-N0NzKjSdL0Xn3N1S?range=7d,flibbing,00:00,00:30,lol,pentas,true,stacked,00:21,false
+https://www.twitch.tv/jynxzi/clip/YummyShinyWalletRlyTho-ztw7La9QduqvHTpi?range=7d,jynxzi,00:00,00:19,lol,fails,false,ambient,,false
