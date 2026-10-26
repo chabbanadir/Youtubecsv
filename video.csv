@@ -1,1 +1,4 @@
-Link,Description,Start,End,KindKey,SubKindKey
+Link,Description,Start,End,KindKey,SubKindKey,IsShort,ShortLayout,CatchStart,CatchAccelerate
+https://www.twitch.tv/broxah/clip/ImpartialSlipperyCrowRuleFive-7AgvxxiXU6-rYD_I?range=7d,broxah,00:00,00:24,lol,fails,false,ambient,,false
+https://www.twitch.tv/velja_lol/clip/SullenSpicyEggplantSoonerLater-XB7ZDelgVAzhkc-u?range=7d,velja_lol,00:00,00:14,lol,normal,false,ambient,,false
+https://www.twitch.tv/viper/clip/TenaciousGorgeousGorillaSquadGoals-5r_gEQirSWTfG7kd?range=7d,viper,00:00,00:12,lol,normal,true,ambient,00:03,false
