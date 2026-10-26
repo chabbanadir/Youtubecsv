@@ -1,1 +1,11 @@
-Link,Description,Start,End,KindKey,SubKindKey
+Link,Description,Start,End,KindKey,SubKindKey,IsShort,ShortLayout,CatchStart,CatchAccelerate
+https://www.twitch.tv/deityoftheshadows/clip/AntsyArtisticClintRuleFive-2ccih78Sz20Dwdnl?range=7d,deityoftheshadows,00:00,00:13,lol,normal,false,ambient,,false
+https://www.twitch.tv/generalsniper/clip/ExpensiveHotCakeKlappa-EVNRebf5AgNp3aYE?range=7d,generalsniper,00:00,00:21,lol,normal,false,ambient,,false
+https://www.twitch.tv/autolykuslol/clip/HumbleThoughtfulArtichokeNotLikeThis-6aAKTqqf1RHVhrgA?range=7d,autolykuslol,00:00,00:15,lol,normal,false,ambient,,false
+https://www.twitch.tv/elbaket/clip/VenomousPerfectWalletVoteNay-XjDAt26ZRKcbrwd4?range=7d,elbaket,00:00,00:18,lol,normal,true,ambient,00:04,false
+https://www.twitch.tv/lolelekktro/clip/TransparentMildTildeTwitchRPG-dvygNCotEn6Yo29X?range=7d,lolelekktro,00:00,00:15,lol,normal,false,ambient,,false
+https://www.twitch.tv/lolelekktro/clip/TransparentMildTildeTwitchRPG-dvygNCotEn6Yo29X?range=7d,lolelekktro,00:00,00:15,lol,,true,stacked,00:08,true
+https://www.twitch.tv/guob_guob/clip/ChillyAttractiveBoarChocolateRain--3GbKUOICfQmA4nP?range=7d,guob_guob,00:00,00:10,lol,normal,false,ambient,,false
+https://www.twitch.tv/kaiitania/clip/JazzyShortSkunkPeoplesChamp-fhnO1Vdpc34mmZWh?range=7d,kaiitania,00:00,00:23,lol,normal,false,ambient,,false
+https://www.twitch.tv/bagerklestyne/clip/TallConsiderateHerdTheTarFu-zmh_3JI894lnJf4X?range=7d,bagerklestyne,00:00,00:30,lol,normal,false,ambient,,false
+https://www.twitch.tv/dragdar/clip/WiseOutstandingAlmondFutureMan-BAv41CcRNvA18cMe?range=7d,dragdar,00:00,01:00,lol,normal,true,stacked,00:44,true
