@@ -1,1 +1,5 @@
-Link,Description,Start,End,KindKey,SubKindKey
+Link,Description,Start,End,KindKey,SubKindKey,IsShort,ShortLayout,CatchStart,CatchAccelerate
+https://www.twitch.tv/thebausffs/clip/LitigiousCredulousSushiChocolateRain-xSa9IaS4zAdXKhAA?range=7d,thebausffs,00:00,00:12,lol,fails,true,stacked,00:02,false
+https://www.twitch.tv/trick2g/clip/FaintGracefulSandwichFreakinStinkin-Hk7rV3dqLt3wOKWW?range=7d,trick2g,00:00,01:00,lol,normal,false,ambient,,false
+https://www.twitch.tv/trick2g/clip/PoliteAbstemiousTeaNotATK-KnWSkPg99tA1e2Hj?range=7d,trick2g,00:00,00:35,lol,normal,true,stacked,00:09,false
+https://www.twitch.tv/thebausffs/clip/VenomousGracefulMarjoramOSsloth-6fUjUAwo9qABQa6h?range=7d,thebausffs,00:00,00:16,lol,normal,true,stacked,00:04,false
